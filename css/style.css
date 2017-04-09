@@ -137,12 +137,10 @@ nav:after{
 min-width: 960px;
 height: 250px;
 overflow: hidden;
+margin: 
 }
 .slider-wrapper{
 position:relative;
-}
-.slider-item{
-
 }
 .item{
 	display:block;
@@ -150,7 +148,8 @@ position:relative;
 	float:left;
 	padding: 45px 10px 45px 50px;
 }
-.slideforward{
+.
+/*.slideforward{
 	display: block;
     position: absolute;
     cursor: pointer;
@@ -171,7 +170,7 @@ position:relative;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     left: 0px;
-}
+}*/
 
 /*slider end/*
 
